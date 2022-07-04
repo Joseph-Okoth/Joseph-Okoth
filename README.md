@@ -1,8 +1,12 @@
 - 👋 Hi, I’m Joseph Onyach
-- 👀 I’m interested in Computer Programming (Rust Language)
-- 🌱 I’m currently learning at The University of Nairobi-Kenya
+
+- 👀 I’m interested in Computer Programming (Currently learning Rust Language at UoN-Kenya)
+
+- 🌱 I’m currently learning at The University of Nairobi-Kenya but also taking a short course being offered by ALX progrm of Software Engineer.
+
 - 💞️ I’m looking forward to collaborate with fellow programmers to learn coding and explore more.
-- 📫 Reach me via email; josephokothonyach@gmail.com
+
+- 📫 Reach me via Email; josephokothonyach@gmail.com via Whatsap; https://wa.me/qr/VVUOYACE62WFF1
 
 <!---
 jonyach/jonyach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
