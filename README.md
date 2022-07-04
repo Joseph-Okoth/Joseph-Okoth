@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking forward to collaborate with fellow programmers to learn coding and explore more.
 
-- 📫 Reach me via Email; josephokothonyach@gmail.com via Whatsap; https://wa.me/qr/VVUOYACE62WFF1
+- 📫 Reach me via Email; josephokothonyach@gmail.com via Whatsap; https://wa.me/qr/VVUOYACE62WFF1  and via telegram/twitter @joseph_onyach
 
 <!---
 jonyach/jonyach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
