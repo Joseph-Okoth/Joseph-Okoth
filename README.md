@@ -8,13 +8,9 @@
 <p align="center">
  <img height="300" width="900" src="https://media.tenor.com/bgwfqPGmRRgAAAAS/coding-internet-security.gif" alt="Image" style="display: block; margin: 0 auto;">
 
-</p>
-     
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonyach&label=Profile%20views&color=0e75b6&style=flat" alt="jonyach" /> </p>
-
-<p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonyach" alt="jonyach" /></a> </p>
-
 <p align="center"> <a href="https://twitter.com/joseph_onyach" target="blank"><img src="https://img.shields.io/twitter/follow/joseph_onyach?logo=twitter&style=for-the-badge" alt="joseph_onyach" /></a> </p>
+      
+ <h2>Learn about me:</h2>
 
 <img align="right" alt="Coding as a Hobby" width="300" src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
 
@@ -26,7 +22,8 @@
 
 - 📫 How to reach me **josephokothonyach@gmail.com**
 
-
+<br>
+ <br>
 <h2 align="center">Here are some strategies for getting me on Social Media:</h2>
 <p align="right">
 <a href="https://twitter.com/joseph_onyach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joseph_onyach" height="30" width="40" /></a>
