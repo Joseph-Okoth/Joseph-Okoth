@@ -14,7 +14,7 @@
       
  <h2>Learn about me:</h2>
 
-<img align="right" alt="Coding as a Hobby" width="300" src="https://photos.app.goo.gl/RAw4X4bA4DhHrSe87">
+<img align="right" alt="Coding as a Hobby" width="300" src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
 
 - 🌱 **I'm currently studying Python and Django while also pursuing a Bachelor of Science in Microprocessor Technology and Instrumentation at the University of Nairobi in Kenya.**
 
