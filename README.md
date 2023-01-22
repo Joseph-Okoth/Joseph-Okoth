@@ -49,7 +49,6 @@
    </td>
 </table>
       
-      <p> 
       <img align="center" src="https://photos.google.com/photo/AF1QipOjEs4BU50eiDV9nuvxko_bym9v8-ACm5DFWAp2">
       
       </p>
