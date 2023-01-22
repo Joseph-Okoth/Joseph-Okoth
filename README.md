@@ -14,7 +14,7 @@
       
  <h2>Learn about me:</h2>
 
-<img align="right" alt="Coding as a Hobby" width="300" src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
+<img align="right" alt="Coding as a Hobby" width="300" src="https://photos.google.com/share/AF1QipMX4ff8UxsL7n95bFhtX3wnV7Qs49TXhOfn9jve2TEpC7ZD8ccrPh4q_-hLGLPokQ/photo/AF1QipM17qVef7H0FObDg9QlEIJ4q5rBK1dhnRJst1sa?key=WjdmVjY0Y3p6TEtvUnA5b19KWG9xemxaeUFPcXFR">
 
 - 🌱 **I'm currently studying Python and Django while also pursuing a Bachelor of Science in Microprocessor Technology and Instrumentation at the University of Nairobi in Kenya.**
 
@@ -48,7 +48,5 @@
       <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonyach&" alt="jonyach" /></p>
    </td>
 </table>
-      
-      <p> align="center">
-      <img src="https://photos.app.goo.gl/RAw4X4bA4DhHrSe87">
+
       
