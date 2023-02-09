@@ -3,7 +3,7 @@
 <p align="center">
    <image width="150" src="https://media.tenor.com/AP5Gtt9f6HEAAAAj/dm4uz3-foekoe.gif">
 
-<h3 align="center">I am Software Engineer student at ALX from Nairobi, Kenya.</h3>
+<h3 align="center">I am a Software Engineer student at ALX from Nairobi, Kenya.</h3>
   
 <p align="center">
  <img height="300" width="900" src="https://media.tenor.com/bgwfqPGmRRgAAAAS/coding-internet-security.gif" alt="Image" style="display: block; margin: 0 auto;">
