@@ -3,7 +3,7 @@
 <p align="center">
    <image width="150" src="https://media.tenor.com/AP5Gtt9f6HEAAAAj/dm4uz3-foekoe.gif">
 
-<h3 align="center">I am a Software Engineer from Nairobi, Kenya.</h3>
+<h3 align="center">I am a creative software engineer from Nairobi, Kenya.</h3>
   
 <p align="center">
  <img height="300" width="900" src="https://media.tenor.com/bgwfqPGmRRgAAAAS/coding-internet-security.gif" alt="Image" style="display: block; margin: 0 auto;">
@@ -18,7 +18,7 @@
 
 - 🌱 **I'm now pursuing a Bachelor of Science in Microprocessor Technology and Instrumentation at the University of Nairobi in Kenya while also attending the ALX SE Program to become a great software engineer.**
 
-- **👯 I'm excited to collaborate with other developers on various projects and to broaden my programming knowledge.**
+- **👯 I'm eager to work on diverse projects with other developers and to increase my programming expertise.**
 
 - 💬 Ask me about **Rust**
 
