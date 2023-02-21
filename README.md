@@ -49,7 +49,7 @@
    </td>
 </table>
 
-      ## ✍️<FONT COLOR="RED"> QUOTE </FONT>
+      ## ✍️QUOTE
 
 ### Just be real and the world will recognize you. It all starts from within.
 
