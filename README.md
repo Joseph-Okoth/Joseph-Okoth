@@ -49,8 +49,8 @@
    </td>
 </table>
 
-### ✍️ QUOTE
+## ✍️ QUOTE
 
-# Just be real and the world will recognize you. It all starts from within
+### Just be real and the world will recognize you. It all starts from within
 
       
