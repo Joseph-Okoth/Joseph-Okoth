@@ -48,8 +48,7 @@
       <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonyach&" alt="jonyach" /></p>
    </td>
 </table>
-
-      ## ✍️QUOTE
+## ✍️QUOTE
 
 ### Just be real and the world will recognize you. It all starts from within.
 
