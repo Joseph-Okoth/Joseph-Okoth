@@ -38,7 +38,7 @@
 
 <p>
   <img align="left" src="https://media.tenor.com/Z_Ah8rkdZ4YAAAAM/walking-code.gif">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonyach&show_icons=true&locale=en&layout=compact" alt="jonyach" /></p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonyach&hide_progress=false" alt="jonyach" /></p>
 
 <table>
    <td>
