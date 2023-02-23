@@ -42,7 +42,18 @@
 
 <table>
    <td>
-      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonyach&show_icons=true&locale=en" alt="jonyach" /></p>
+      <p>&nbsp;<img align="center" <picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=jonyach&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=jonyach&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=jonyach&show_icons=true" />
+</picture>
+   </p>
    </td>
    <td>
       <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonyach&" alt="jonyach" /></p>
