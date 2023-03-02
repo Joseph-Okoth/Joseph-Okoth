@@ -38,28 +38,13 @@
 
 <p>
   <img align="left" src="https://media.tenor.com/Z_Ah8rkdZ4YAAAAM/walking-code.gif">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonyach&hide_progress=false" alt="jonyach" /></p>
-
-<table>
-   <td>
-      <p>&nbsp;<img align="center" <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=jonyach&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=jonyach&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=jonyach&show_icons=true" />
-</picture>
-   </p>
-   </td>
-   <td>
-      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonyach&" alt="jonyach" /></p>
-   </td>
-</table>
+      </p>
       
+##
+      
+![](https://github-readme-stats.vercel.app/api?username=jonyach&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jonyach&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonyach&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
       
 ## ✍️QUOTE
 
