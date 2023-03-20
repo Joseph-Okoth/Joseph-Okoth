@@ -20,8 +20,6 @@
 
 - **👯 I'm eager to work on diverse projects with other developers and to increase my programming expertise.**
 
-- 💬 Ask me about **Rust**
-
 - 📫 How to reach me **josephokothonyach@gmail.com**
 
 <br>
