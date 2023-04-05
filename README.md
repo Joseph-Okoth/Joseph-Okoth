@@ -15,7 +15,7 @@
       
  <h2>Learn about me:</h2>
 
-<img align="right" alt="Coding as a Hobby" width="300" src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
+<img align="right" alt="Coding as a Hobby" width="200" src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
 
 - 🌱 **I'm now pursuing a Bachelor of Science in Microprocessor Technology and Instrumentation at the University of Nairobi in Kenya while also attending the ALX SE Program to become a great software engineer.**
 
