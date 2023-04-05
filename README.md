@@ -5,9 +5,10 @@
 
 <h3 align="center">A creative software engineer from Nairobi, Kenya.</h3>
   
-<p align="center">
- <img height="300" width="900" src="https://media.tenor.com/bgwfqPGmRRgAAAAS/coding-internet-security.gif" alt="Image" style="display: block; margin: 0 auto;">
-<br>
+<div align="center">
+  <img src="https://github.com/jonyach/github-snake-svg/blob/main/snake.svg"
+       alt="snake" /></a>
+</div>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Gtindi.Gtindi">
 
 <p align="center"> <a href="https://twitter.com/joseph_onyach" target="blank"><img src="https://img.shields.io/twitter/follow/joseph_onyach?logo=twitter&style=for-the-badge" alt="joseph_onyach" /></a> </p>
