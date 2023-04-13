@@ -19,7 +19,8 @@
       <img src="https://visitor-badge.laobi.icu/badge?page_id=jonyach.jonyach">
       </div>
       
-<p align="center"> <a href="https://twitter.com/joseph_onyach" target="blank"><img src="https://img.shields.io/twitter/follow/joseph_onyach?logo=twitter&style=for-the-badge" alt="joseph_onyach" /></a> </p>
+<p align="center"> <a href="https://twitter.com/joseph_onyach" target="blank"><img src="https://img.shields.io/twitter/follow/joseph_onyach?logo=twitter&style=for-the-badge" alt="joseph_onyach" /></a> 
+</p>
       
  <h2>Learn about me:</h2>
 
