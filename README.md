@@ -38,19 +38,19 @@
       
 <p align="right">
    <a href="https://twitter.com/joseph_onyach" target="blank">
-      <img align="center" src="https://github.com/username/repository/blob/master/twitter.svg" charset="utf-8" alt="joseph_onyach" height="30" width="40" />
+      <img src="https://github.com/username/repository/blob/master/twitter.svg" charset="utf-8" alt="joseph_onyach" height="30" width="40" />
    </a>
    <a href="https://linkedin.com/in/joseph-onyach-46bbb9223/?lipi=urn%3ali%3apage%3aprofile_common_profile_index%3bf900728c-1a89-4a05-8aa7-e75bd148bb68" target="blank">
-      <img align="center" src="https://github.com/username/repository/blob/master/linked-in-alt.svg" alt="Joseph Onyach" height="30" width="40" />
+      <img src="https://github.com/username/repository/blob/master/linked-in-alt.svg" alt="Joseph Onyach" height="30" width="40" />
    </a>
    <a href="https://stackoverflow.com/users/19530515/joseph-okoth-onyach" target="blank">
-      <img align="center" src="https://github.com/username/repository/blob/master/stack-overflow.svg" alt="Joseph Okoth Onyach" height="30" width="40" />
+      <img src="https://github.com/username/repository/blob/master/stack-overflow.svg" alt="Joseph Okoth Onyach" height="30" width="40" />
    </a>
    <a href="https://www.facebook.com/joseph.onyach.52" target="blank">
-      <img align="center" src="https://github.com/username/repository/blob/master/facebook.svg" alt="Joseph Onyach" height="30" width="40" />
+      <img src="https://github.com/username/repository/blob/master/facebook.svg" alt="Joseph Onyach" height="30" width="40" />
    </a>
    <a href="https://www.instagram.com/joseph_onyach/" target="blank">
-      <img align="center" src="https://github.com/username/repository/blob/master/instagram.svg" alt="Joseph Onyach" height="30" width="40" />
+      <img src="https://github.com/username/repository/blob/master/instagram.svg" alt="Joseph Onyach" height="30" width="40" />
    </a>
 </p>
 
