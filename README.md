@@ -36,7 +36,7 @@
 <br>
 <h2 align="center">Here are some strategies for getting me on Social Media:</h2>
       
-<p align="right">
+<p align="left">
    <a href="https://twitter.com/joseph_onyach" target="_blank" rel="noreferrer">
       <img src="https://github.com/username/repository/blob/master/twitter.svg" charset="utf-8" alt="joseph_onyach" height="30" width="40" />
    </a>
