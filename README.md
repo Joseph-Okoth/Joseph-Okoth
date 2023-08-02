@@ -37,11 +37,11 @@
 <h2 align="center">Here are some strategies for getting me on Social Media:</h2>
       
 <p align="left">
-<a href="https://x.com/joseph_onyach" target="blank"><img align="center" src="https://logowik.com/content/uploads/images/twitter-x-icon3832.logowik.com.webp" alt="Joseph Onyach" height="30" width="40" /></a>
-<a href="https://instagram.com/joseph_onyach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Joseph Onyach" height="30" width="40" /></a>
-<a href="https://www.facebook.com/joseph.onyach.52/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Joseph Onyach" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jonyach/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Joseph Onyach" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19530515/joseph-okoth-onyach" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Joseph Onyach" height="30" width="40"></a>
+<a href="https://x.com/joseph_onyach" target="blank"><img align="center" src="https://logowik.com/content/uploads/images/twitter-x-icon3832.logowik.com.webp" alt="Joseph Onyach" height="40" width="40" /></a>
+<a href="https://instagram.com/joseph_onyach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Joseph Onyach" height="40" width="40" /></a>
+<a href="https://www.facebook.com/joseph.onyach.52/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Joseph Onyach" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/jonyach/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Joseph Onyach" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/19530515/joseph-okoth-onyach" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Joseph Onyach" height="40" width="40"></a>
 </p>
 
 
