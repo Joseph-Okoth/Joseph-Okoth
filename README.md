@@ -37,10 +37,10 @@
 <h2 align="center">Here are some strategies for getting me on Social Media:</h2>
       
 <p align="left">
-<a href="https://x.com/joseph_onyach" target="blank"><img align="center" src="https://logowik.com/twitter-x-icon-logo-vector-59294.html" alt="Joseph Onyach" height="30" width="40" /></a>
+<a href="https://x.com/joseph_onyach" target="blank"><img align="center" src="https://logowik.com/content/uploads/images/twitter-x5265.logowik.com.webp" alt="Joseph Onyach" height="30" width="40" /></a>
 <a href="https://instagram.com/joseph_onyach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Joseph Onyach" height="30" width="40" /></a>
 <a href="https://www.facebook.com/joseph.onyach.52/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Joseph Onyach" height="30" width="40" /></a>
-<a href="https://discord.gg/Jonyach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Joseph Onyach" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jonyach/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Joseph Onyach" height="30" width="40" /></a>
 </p>
 
 
