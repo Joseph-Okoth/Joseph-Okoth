@@ -9,12 +9,17 @@
 <div align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=2000&color=2336BCF7&width=800&lines=A+creative+software+engineer+from+Nairobi,+Kenya." alt="Typing SVG" /></a>
       </div>
-  
+
 <div align="center">
   <img src="https://github.com/jonyach/github-snake-svg/blob/main/snake.svg"
        alt="snake" />
 </div>
-      
+
+<div align="center">
+  <img src="https://github.com/jonyach/web_test/blob/main/Main-Techpro.svg"
+       alt="test" />
+</div>
+
 <div align="center">
       <img src="https://visitor-badge.laobi.icu/badge?page_id=jonyach.jonyach">
       </div>
