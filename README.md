@@ -1,6 +1,6 @@
 
 <div align="right">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=2000&color=196209&width=700&lines=Hi+👋,+I'm+Joseph+Onyach" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=2000&color=196209&width=700&lines=Hi+👋,+I'm+Joseph+Okoth" alt="Typing SVG" /></a>
 </div>
 
 
@@ -12,7 +12,7 @@
       </div>
 
 <div align="center">
-  <img src="https://github.com/jonyach/github-snake-svg/blob/main/snake.svg"
+  <img src="https://github.com/Joseph-Okoth/github-snake-svg/blob/main/snake.svg"
        alt="snake" />
 </div>
 
@@ -27,11 +27,11 @@
 
 <img align="right" alt="Coding as a Hobby" width="200" src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
 
-- 🌱 **I'm now pursuing a Bachelor of Science in Microprocessor Technology and Instrumentation at the University of Nairobi in Kenya while also attending the ALX SE Program to become a great software engineer.**
+- 🌱 **I'm now pursuing a Bachelor of Science in Microprocessor Technology and Instrumentation at the University of Nairobi in Kenya**
 
 - **👯 I'm eager to work on diverse projects with other developers and to increase my programming expertise.**
 
-- 📫 How to reach me **josephokothonyach@gmail.com**
+- 📫 How to reach me **2020josephokoth@gmail.com**
 
 <br>
 <br>
@@ -40,7 +40,7 @@
 <p align="left">
 <a href="https://x.com/joseph_onyach" target="blank"><img align="center" src="https://logowik.com/content/uploads/images/twitter-x-icon3832.logowik.com.webp" alt="Joseph Onyach" height="40" width="40" /></a>
 <a href="https://instagram.com/joseph_onyach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Joseph Onyach" height="40" width="40" /></a>
-<a href="https://www.facebook.com/joseph.onyach.52/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Joseph Onyach" height="40" width="40" /></a>
+<a href="https://www.facebook.com/joseph.onyach.52/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Joseph Okoth" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/jonyach/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Joseph Onyach" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/19530515/joseph-okoth-onyach" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Joseph Onyach" height="40" width="40"></a>
 </p>
@@ -94,11 +94,11 @@
    </tr>
 </table>
    
-<!-- ![](https://github-readme-stats.vercel.app/api?username=jonyach&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true) -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Joseph-Okoth&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true) -->
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jonyach&theme=blue-green&hide_border=false)
 
-<!-- [![Jonyach's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jonyach&theme=radical&custom_title=My%20Wakatime%20Stats&layout=compact&bg_color=000000)](https://github.com/jonyach)       -->
+<!-- [![Joseph-Okoth's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Joseph-Okoth&theme=radical&custom_title=My%20Wakatime%20Stats&layout=compact&bg_color=000000)](https://github.com/jonyach)       -->
 
 ![](https://metrics.lecoq.io/jonyach?template=classic&base.indepth=true&base.hireable=true&repositories.forks=true&isocalendar=1&languages=1&lines=1&stars=1&people=1&introduction=1&repositories=1&achievements=1&activity=1&tweets=1&posts=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=13&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%10programming&languages.recent.categories=markup%2C%10programming&languages.recent.load=100&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&people=false&people.limit=15&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers&people.shuffle=false&introduction=false&introduction.title=true&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%10pinned%2C%10starred%2C%10random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=100&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&tweets=false&tweets.user=joseph_onyach&tweets.attachments=false&tweets.limit=4&posts=false&posts.source=dev.to&posts.user=jonyach&posts.descriptions=false&posts.covers=false&posts.limit=4&config.timezone=EAT%2FNairobi&config.twemoji=true)
 
