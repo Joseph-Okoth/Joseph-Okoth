@@ -89,14 +89,14 @@
       </td>
       <td>
       
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonyach&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-okoth&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
       </td>
    </tr>
 </table>
    
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Joseph-Okoth&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true) -->
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=jonyach&theme=blue-green&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Joseph-Okoth&theme=blue-green&hide_border=false)
 
 <!-- [![Joseph-Okoth's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Joseph-Okoth&theme=radical&custom_title=My%20Wakatime%20Stats&layout=compact&bg_color=000000)](https://github.com/jonyach)       -->
 
