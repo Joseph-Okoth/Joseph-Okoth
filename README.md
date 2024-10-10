@@ -20,7 +20,7 @@
       <img src="https://visitor-badge.laobi.icu/badge?page_id=jonyach.jonyach">
       </div>
       
-<p align="center"> <a href="https://twitter.com/JosephOkoth01" target="blank"><img src="https://img.shields.io/twitter/follow/JosephOkoth01?logo=twitter&style=for-the-badge" alt="JosephOkoth" /></a> 
+<p align="center"> <a href="https://twitter.com/joseph_onyach" target="blank"><img src="https://img.shields.io/twitter/follow/Joseph_Onyach?logo=twitter&style=for-the-badge" alt="JosephOkoth" /></a> 
 </p>
       
  <h2>Learn about me:</h2>
