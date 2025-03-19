@@ -1,6 +1,6 @@
 
 <div align="right">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=2000&color=196209&width=700&lines=Hi+👋,+I'm+Joseph+Okoth" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=2000&color=196209&width=700&lines=Hi+👋,+I'm+Joseph" alt="Typing SVG" /></a>
 </div>
 
 
@@ -8,7 +8,7 @@
    <image width="150" src="https://media.tenor.com/AP5Gtt9f6HEAAAAj/dm4uz3-foekoe.gif">
   
 <div align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=2000&color=2336BCF7&width=800&lines=A+creative+software+engineer+from+Nairobi,+Kenya." alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=2000&color=2336BCF7&width=800&lines=A+student+software+engineer+from+Nairobi,+Kenya." alt="Typing SVG" /></a>
       </div>
 
 <div align="center">
@@ -20,7 +20,7 @@
       <img src="https://visitor-badge.laobi.icu/badge?page_id=jonyach.jonyach">
       </div>
       
-<p align="center"> <a href="https://twitter.com/joseph_onyach" target="blank"><img src="https://img.shields.io/twitter/follow/Joseph_Onyach?logo=twitter&style=for-the-badge" alt="JosephOkoth" /></a> 
+<p align="center"> <a href="https://x.com/Joseph_Onyach" target="blank"><img src="https://img.shields.io/twitter/follow/Joseph_Onyach?logo=twitter&style=for-the-badge" alt="JosephOkoth" /></a> 
 </p>
       
  <h2>Learn about me:</h2>
@@ -31,7 +31,7 @@
 
 - **👯 I'm eager to work on diverse projects with other developers and to increase my programming expertise.**
 
-- 📫 How to reach me **2020josephokoth@gmail.com**
+- 📫 How to reach me **josephonyach01@gmail.com**
 
 <br>
 <br>
@@ -68,7 +68,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://svgshare.com/i/14ed.svg" alt="rust" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/> 
   </a>
 
   <a href="https://en.cppreference.com/w/c/language" target="_blank" rel="noreferrer"> 
