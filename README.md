@@ -1,5 +1,9 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=2000&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Joseph+Onyach" alt="Typing SVG" /></a>
+<div style="text-align: center;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=2000&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Joseph+Onyach" alt="Typing SVG" />
+  </a>
+</div>
 
 
 <p align="center">
