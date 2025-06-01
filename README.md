@@ -27,7 +27,7 @@
 
 <img align="right" alt="Coding as a Hobby" width="200" src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
 
-- 🌱 **I'm now pursuing a Bachelor of Science in Microprocessor Technology and Instrumentation at the University of Nairobi in Kenya**
+- 🌱 **I've completed a Bachelor of Science in Microprocessor Technology and Instrumentation at the University of Nairobi in Kenya (Awaiting Graduation - Class of 2025)**
 
 - **👯 I'm eager to work on diverse projects with other developers and to increase my programming expertise.**
 
