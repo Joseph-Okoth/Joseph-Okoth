@@ -47,34 +47,44 @@
 <br>
 
 <h2 align="center">Connect with me:</h2>
-      
-<p align="center">
-  <a href="https://x.com/joseph_onyach" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="Joseph Onyach on X" height="40" width="40" />
-  </a>&nbsp;&nbsp;
-  <!-- <a href="https://instagram.com/joseph_onyach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Joseph Onyach" height="40" width="40" /></a> -->
-  <!-- <a href="https://www.facebook.com/joseph.onyach.52/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Joseph Okoth" height="40" width="40" /></a> -->
-  <a href="https://linkedin.com/in/jonyach/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Joseph Onyach on LinkedIn" height="40" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/19530515/joseph-okoth-onyach" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Joseph Onyach on Stack Overflow" height="40" width="40" />
-  </a>
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://x.com/joseph_onyach" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="X" width="40" height="40" />
+      </a>
+    </td>
+    <!-- <td align="center"><a href="https://instagram.com/joseph_onyach" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" /></a></td> -->
+    <!-- <td align="center"><a href="https://www.facebook.com/joseph.onyach.52/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40" /></a></td> -->
+    <td align="center">
+      <a href="https://linkedin.com/in/jonyach/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="40" height="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://stackoverflow.com/users/19530515/joseph-okoth-onyach" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Stack Overflow" width="40" height="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">Languages and Tools:</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40" /></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></td>
+  </tr>
+</table>
 
 <!--
 <p align="center">
